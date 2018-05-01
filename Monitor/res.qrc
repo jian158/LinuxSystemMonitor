@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/icon_memory_dark.svg</file>
+        <file>cmd/power.sh</file>
+    </qresource>
+</RCC>
